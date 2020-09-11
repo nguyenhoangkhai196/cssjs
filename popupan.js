@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://goo.gl/4o6T4b';
+	var url_popup = 'https://otohondabinhtan.com/gia-xe-honda-crv-tai-phuoc-thanh/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
