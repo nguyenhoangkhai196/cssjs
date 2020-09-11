@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>COPY VAO DAY NE: <a href='http://banggiaxefortuner2017.blogspot.com/'>http://banggiaxefortuner2017.blogspot.com/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>COPY VAO DAY NE: <a href='https://otohondabinhtan.com/'>https://otohondabinhtan.com</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
